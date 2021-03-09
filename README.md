@@ -16,10 +16,11 @@ My interest with this data set is exploring what aspects of each genre make them
 The data set describes different songs from different genres ranging from 1950 to 2019. Each genre has a set sample size which covers from when the genre was created to 2019, each year is represented somewhat equally, however, there seems to be a slightly stronger emphasis on the years of which the genre was most popular. A program was used to run through the lyrics and music of each song listed and analyzes them. the program then rates each song with a ranking from 0 to 1 in each category, these categories describe musical and lyrical themes within music such as; loudness, acousticness, violence, and sadness. There are 23 columns of criteria for each song, as well as the title, year, length, artist, genre, and the lyrics.  The data set contains 28372 songs and no data is missing.
 
 ## Team Members
+---
 
-- Graeme Damberger, 66742511: Third year student in electrical engineering, mechatronics option, minoring in computer science. 
+- **Graeme Damberger**, *66742511*: Third year student in electrical engineering, mechatronics option, minoring in computer science. 
 
-
+---
 ## References
 
 {Add your stuff here}
