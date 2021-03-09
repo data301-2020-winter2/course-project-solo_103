@@ -12,6 +12,6 @@ def load_and_process(path):
     df2=(df1
     .rename(columns = {"artist_name":"Artist","track_name":"Title","release_date":"Year"})
     .drop(columns=["Unnamed: 0","lyrics","age","len"])
-    .assign(Decade=df["Year"]-df["Year"]%10)
+    .assign(Decade=df1["release_date"]-df1["release_date"]%10)
    )
     return df2
