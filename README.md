@@ -24,5 +24,5 @@ The data set describes different songs from different genres ranging from 1950 t
 ## References
 
 Online dashboard
-https://us-west-2b.online.tableau.com/t/data301/views/course-porject-solo_103/DataSetDashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+https://us-west-2b.online.tableau.com/t/data301/views/course-project-solo_103/DataSetDashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
 
